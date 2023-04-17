@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/layout_new_channel.xml.flat",
+        "source": "com.shvet.messenger.app-main-45:/layout/new_channel.xml"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.shvet.messenger.app-main-45:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/drawable_ic_baseline_attach_file_24.xml.flat",
+        "source": "com.shvet.messenger.app-main-45:/drawable/ic_baseline_attach_file_24.xml"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/layout_chat.xml.flat",
+        "source": "com.shvet.messenger.app-main-45:/layout/chat.xml"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/layout_chat_item.xml.flat",
+        "source": "com.shvet.messenger.app-main-45:/layout/chat_item.xml"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.shvet.messenger.app-main-45:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.shvet.messenger.app-main-45:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/layout_image_message_layout.xml.flat",
+        "source": "com.shvet.messenger.app-main-45:/layout/image_message_layout.xml"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.shvet.messenger.app-main-45:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/drawable_night_send_button.png.flat",
+        "source": "com.shvet.messenger.app-main-45:/drawable/night_send_button.png"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/drawable_day_send_button.png.flat",
+        "source": "com.shvet.messenger.app-main-45:/drawable/day_send_button.png"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.shvet.messenger.app-main-45:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/drawable_loading.png.flat",
+        "source": "com.shvet.messenger.app-main-45:/drawable/loading.png"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/xml_backup_rules.xml.flat",
+        "source": "com.shvet.messenger.app-main-45:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.shvet.messenger.app-main-45:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/layout-land_activity_main.xml.flat",
+        "source": "com.shvet.messenger.app-main-45:/layout-land/activity_main.xml"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.shvet.messenger.app-main-45:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/xml_network_security_config.xml.flat",
+        "source": "com.shvet.messenger.app-main-45:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/drawable_night_round_button.xml.flat",
+        "source": "com.shvet.messenger.app-main-45:/drawable/night_round_button.xml"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/drawable_day_round_button.xml.flat",
+        "source": "com.shvet.messenger.app-main-45:/drawable/day_round_button.xml"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.shvet.messenger.app-main-45:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/drawable_night_round_message.xml.flat",
+        "source": "com.shvet.messenger.app-main-45:/drawable/night_round_message.xml"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.shvet.messenger.app-main-45:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.shvet.messenger.app-main-45:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/layout_activity_chat.xml.flat",
+        "source": "com.shvet.messenger.app-main-45:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/drawable_ic_baseline_send_24.xml.flat",
+        "source": "com.shvet.messenger.app-main-45:/drawable/ic_baseline_send_24.xml"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/layout_chat_list.xml.flat",
+        "source": "com.shvet.messenger.app-main-45:/layout/chat_list.xml"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.shvet.messenger.app-main-45:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/drawable_night_round_user_message.xml.flat",
+        "source": "com.shvet.messenger.app-main-45:/drawable/night_round_user_message.xml"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/layout_image_full_res_layout.xml.flat",
+        "source": "com.shvet.messenger.app-main-45:/layout/image_full_res_layout.xml"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/drawable_day_round_user_message.xml.flat",
+        "source": "com.shvet.messenger.app-main-45:/drawable/day_round_user_message.xml"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.shvet.messenger.app-main-45:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/drawable_day_attach_button.png.flat",
+        "source": "com.shvet.messenger.app-main-45:/drawable/day_attach_button.png"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/drawable_night_attach_button.png.flat",
+        "source": "com.shvet.messenger.app-main-45:/drawable/night_attach_button.png"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/drawable_day_round_message.xml.flat",
+        "source": "com.shvet.messenger.app-main-45:/drawable/day_round_message.xml"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.shvet.messenger.app-main-45:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.shvet.messenger.app-main-45:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/layout_activity_main.xml.flat",
+        "source": "com.shvet.messenger.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/drawable_add_channel.png.flat",
+        "source": "com.shvet.messenger.app-main-45:/drawable/add_channel.png"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/layout_message_layout.xml.flat",
+        "source": "com.shvet.messenger.app-main-45:/layout/message_layout.xml"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/xml_data_extraction_rules.xml.flat",
+        "source": "com.shvet.messenger.app-main-45:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/layout_empty_chat.xml.flat",
+        "source": "com.shvet.messenger.app-main-45:/layout/empty_chat.xml"
+    },
+    {
+        "merged": "com.shvet.messenger.app-merged_res-43:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.shvet.messenger.app-main-45:/drawable-v24/ic_launcher_foreground.xml"
+    }
+]

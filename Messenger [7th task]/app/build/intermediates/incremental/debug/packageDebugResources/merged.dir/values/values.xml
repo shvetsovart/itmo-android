@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue">#1A44DC</color>
+    <color name="day_btn">#59C6FF</color>
+    <color name="day_message_user">#C6FFB9</color>
+    <color name="day_msg">#B3E5FF</color>
+    <color name="from_user">#1B880F</color>
+    <color name="grey">#B3B3B3</color>
+    <color name="night_message_user">#368D2B</color>
+    <color name="night_msg">#507CCF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="red">#DC1A1A</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Chat</string>
+    <string name="attach_file">Attach File</string>
+    <string name="attached_image">Attached Image</string>
+    <string name="channel_name_requirements">Here you can create new channel. But remember the rules: Channel name should end with</string>
+    <string name="channel_name_requirements2">Use only digits and english letters. \nLowercase, no spaces.</string>
+    <string name="channel_placeholder">Channel</string>
+    <string name="chat_container">Chat Container</string>
+    <string name="chat_item">@channel</string>
+    <string name="chat_messages_container">Chat Messages Container</string>
+    <string name="create_new_channel">CREATE NEW CHANNEL</string>
+    <string name="empty_chat_message">Select channel to start chatting</string>
+    <string name="first_message_hint">First message</string>
+    <string name="heart_image">heart image</string>
+    <string name="message">Message</string>
+    <string name="message_hint">Message</string>
+    <string name="new_channel_name">Channel name</string>
+    <string name="plus_description">Add Channel</string>
+    <string name="send_image">Send Image</string>
+    <string name="send_message">Send Message</string>
+    <string name="test_message">Test message</string>
+    <string name="test_time">01 Apr 16:22</string>
+    <string name="test_user">User</string>
+    <string name="todo">TODO</string>
+    <style name="AttachButton" parent="TextAppearance.AppCompat">
+        <item name="android:background">@drawable/day_round_button</item>
+        <item name="android:src">@drawable/day_attach_button</item>
+    </style>
+    <style name="MessageStyle" parent="TextAppearance.AppCompat">
+        <item name="android:background">@drawable/day_round_message</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="NickStyle" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="SendButton" parent="TextAppearance.AppCompat">
+        <item name="android:background">@drawable/day_round_button</item>
+        <item name="android:src">@drawable/day_send_button</item>
+    </style>
+    <style name="Theme.Messenger" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">#608CD6</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+    <style name="UserMessageStyle" parent="TextAppearance.AppCompat">
+        <item name="android:background">@drawable/day_round_user_message</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="UserNickStyle" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/from_user</item>
+    </style>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.shvet.hw10.ExampleUnitTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2023-03-21T10:16:24" hostname="ARTYOMSHVETSOV" time="0.024">
+  <properties/>
+  <testcase name="divideTest" classname="com.shvet.hw10.ExampleUnitTest" time="0.013"/>
+  <testcase name="doubleDivideTest" classname="com.shvet.hw10.ExampleUnitTest" time="0.001"/>
+  <testcase name="doubleExpTest" classname="com.shvet.hw10.ExampleUnitTest" time="0.002"/>
+  <testcase name="expTest" classname="com.shvet.hw10.ExampleUnitTest" time="0.001"/>
+  <testcase name="addTest" classname="com.shvet.hw10.ExampleUnitTest" time="0.001"/>
+  <testcase name="doubleMultiplyTest" classname="com.shvet.hw10.ExampleUnitTest" time="0.001"/>
+  <testcase name="divideByZeroTest" classname="com.shvet.hw10.ExampleUnitTest" time="0.001"/>
+  <testcase name="multiplyTest" classname="com.shvet.hw10.ExampleUnitTest" time="0.001"/>
+  <testcase name="subtractTest" classname="com.shvet.hw10.ExampleUnitTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

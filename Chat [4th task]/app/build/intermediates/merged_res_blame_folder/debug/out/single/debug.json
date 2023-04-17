@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\drawable_testpic.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\drawable\\testpic.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\drawable_day_attach_button.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\drawable\\day_attach_button.png"
+    },
+    {
+        "merged": "com.shvet.network.app-merged_res-37:/layout_user_image_message_layout.xml.flat",
+        "source": "com.shvet.network.app-main-39:/layout/user_image_message_layout.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\layout_message_layout.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\layout\\message_layout.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\drawable_night_attach_button.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\drawable\\night_attach_button.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\drawable_send_day.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\drawable\\send_day.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\layout-land_activity_main.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\layout_user_image_message_layout.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\layout\\user_image_message_layout.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\drawable_attach_day.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\drawable\\attach_day.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\xml_provider_paths.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\drawable_loading.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\drawable\\loading.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\drawable_night_send_button.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\drawable\\night_send_button.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\drawable_loadingfull.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\drawable\\loadingfull.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\drawable_night_round_button.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\drawable\\night_round_button.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\layout_image_full_res_layout.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\layout\\image_full_res_layout.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\drawable_attach_file.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\drawable\\attach_file.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\layout_user_message_layout.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\layout\\user_message_layout.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\layout_image_message_layout.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\layout\\image_message_layout.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\drawable_image_not_found.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\drawable\\image_not_found.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\drawable_attach.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\drawable\\attach.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\drawable_send.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\drawable\\send.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\drawable_email.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\drawable\\email.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\drawable_night_round_user_message.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\drawable\\night_round_user_message.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\drawable_day_round_button.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\drawable\\day_round_button.xml"
+    },
+    {
+        "merged": "com.shvet.network.app-merged_res-37:/layout_image_message_layout.xml.flat",
+        "source": "com.shvet.network.app-main-39:/layout/image_message_layout.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\drawable_day_send_button.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\drawable\\day_send_button.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\layout_activity_main.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\drawable_night_round_message.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\drawable\\night_round_message.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\drawable_day_round_user_message.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\drawable\\day_round_user_message.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\drawable_day_round_message.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\drawable\\day_round_message.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\drawable_paperclip.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\drawable\\paperclip.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\drawable_refresh.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\drawable\\refresh.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-merged_res-37:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\mipmap-hdpi\\ic_launcher.webp"
+    }
+]

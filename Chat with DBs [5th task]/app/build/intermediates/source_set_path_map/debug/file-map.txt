@@ -1,0 +1,40 @@
+com.shvet.network.app-lifecycle-runtime-ktx-2.4.0-0 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\0115fa269bcc312984151e82d1f30121\transformed\lifecycle-runtime-ktx-2.4.0\res
+com.shvet.network.app-recyclerview-1.2.1-1 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\0349b1193be74f3c0ef5e2ee401c9b01\transformed\recyclerview-1.2.1\res
+com.shvet.network.app-viewpager2-1.0.0-2 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\03d2eddd7c1e665a9f8b90894cf88345\transformed\viewpager2-1.0.0\res
+com.shvet.network.app-databinding-adapters-7.4.2-3 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\042a0cb473079b4ab3d911e5312763c0\transformed\databinding-adapters-7.4.2\res
+com.shvet.network.app-cardview-1.0.0-4 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\0f83c5d5bf7c6e76956157cb777fbf37\transformed\cardview-1.0.0\res
+com.shvet.network.app-emoji2-views-helper-1.2.0-5 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\16a06af682caf3e4461b750d0ec3329b\transformed\emoji2-views-helper-1.2.0\res
+com.shvet.network.app-lifecycle-service-2.4.0-6 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\16f32fd4780a6cbc46c2b61dd036f32d\transformed\lifecycle-service-2.4.0\res
+com.shvet.network.app-annotation-experimental-1.1.0-7 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\1bc64bcfdc1c17707db90ef6ba4833ca\transformed\annotation-experimental-1.1.0\res
+com.shvet.network.app-core-ktx-1.8.0-8 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\2a72a94b7cc8729791a76d8aa7c430f2\transformed\core-ktx-1.8.0\res
+com.shvet.network.app-databinding-runtime-7.4.2-9 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\2f39a46430ef5bda8273860566a3eff8\transformed\databinding-runtime-7.4.2\res
+com.shvet.network.app-coordinatorlayout-1.1.0-10 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\38d09d4ba0d273158c68be2805b798b3\transformed\coordinatorlayout-1.1.0\res
+com.shvet.network.app-material-1.6.1-11 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\4a275534db445ce3f600c96cc0a1c501\transformed\material-1.6.1\res
+com.shvet.network.app-emoji2-1.2.0-12 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\66814d0c9c223a08105bc116aeb53dd5\transformed\emoji2-1.2.0\res
+com.shvet.network.app-savedstate-1.2.0-13 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\6c799608a67394e2261b50f8508ea239\transformed\savedstate-1.2.0\res
+com.shvet.network.app-activity-1.5.1-14 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\848070ea02907dc091bf10bc9b4c38bb\transformed\activity-1.5.1\res
+com.shvet.network.app-fragment-1.3.6-15 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\93ac10b68cc6b2ecdb3339310a897f91\transformed\fragment-1.3.6\res
+com.shvet.network.app-core-1.8.0-16 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\97963bb51e2e9df26effca3f9e82b218\transformed\core-1.8.0\res
+com.shvet.network.app-appcompat-resources-1.5.1-17 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\9898ec232859f5d74bd0307a8dfd4069\transformed\appcompat-resources-1.5.1\res
+com.shvet.network.app-lifecycle-livedata-2.4.0-18 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\a4035989a7bd0a9c2ee20eaaea2e1985\transformed\lifecycle-livedata-2.4.0\res
+com.shvet.network.app-lifecycle-viewmodel-2.5.1-19 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\b510763edb1ef6286222c38b148ec3db\transformed\lifecycle-viewmodel-2.5.1\res
+com.shvet.network.app-sqlite-framework-2.2.0-20 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\bc78f9e1a5daf22029c48afe85ffd432\transformed\sqlite-framework-2.2.0\res
+com.shvet.network.app-lifecycle-runtime-2.5.1-21 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\bd2013a7ba3836a0788f3d8b2296a53a\transformed\lifecycle-runtime-2.5.1\res
+com.shvet.network.app-startup-runtime-1.1.1-22 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\bdeac150b6ce0fcc7996d2b9a9f9c390\transformed\startup-runtime-1.1.1\res
+com.shvet.network.app-lifecycle-livedata-core-2.5.1-23 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\d4c7398b925a7fa33014a3b3d90293a8\transformed\lifecycle-livedata-core-2.5.1\res
+com.shvet.network.app-lifecycle-process-2.4.1-24 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\d64e7ca6b93f4a6c092b1dd37cf249d6\transformed\lifecycle-process-2.4.1\res
+com.shvet.network.app-transition-1.2.0-25 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\d937372f4d1bea6dffbb3852bb38fc5f\transformed\transition-1.2.0\res
+com.shvet.network.app-lifecycle-viewmodel-savedstate-2.5.1-26 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\e563143b9fc1ce0498763a9307e41937\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.shvet.network.app-appcompat-1.5.1-27 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\e965348d9c331929e41dc9e28a61b5bf\transformed\appcompat-1.5.1\res
+com.shvet.network.app-drawerlayout-1.1.1-28 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\ee697cd08c56d0500233d93c4fc892de\transformed\drawerlayout-1.1.1\res
+com.shvet.network.app-room-runtime-2.4.3-29 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\f0eea8e61d9dedd42050f033704d6a70\transformed\room-runtime-2.4.3\res
+com.shvet.network.app-sqlite-2.2.0-30 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\fd276097bb967a841ba59d0b4fb29488\transformed\sqlite-2.2.0\res
+com.shvet.network.app-constraintlayout-2.1.4-31 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\fe5722c2d28764b765710ac6c318c6e8\transformed\constraintlayout-2.1.4\res
+com.shvet.network.app-pngs-32 C:\Users\shvet\AndroidStudioProjects\hw4-1ch-network-shvetsovart\app\build\generated\res\pngs\debug
+com.shvet.network.app-resValues-33 C:\Users\shvet\AndroidStudioProjects\hw4-1ch-network-shvetsovart\app\build\generated\res\resValues\debug
+com.shvet.network.app-rs-34 C:\Users\shvet\AndroidStudioProjects\hw4-1ch-network-shvetsovart\app\build\generated\res\rs\debug
+com.shvet.network.app-packageDebugResources-35 C:\Users\shvet\AndroidStudioProjects\hw4-1ch-network-shvetsovart\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.shvet.network.app-packageDebugResources-36 C:\Users\shvet\AndroidStudioProjects\hw4-1ch-network-shvetsovart\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.shvet.network.app-merged_res-37 C:\Users\shvet\AndroidStudioProjects\hw4-1ch-network-shvetsovart\app\build\intermediates\merged_res\debug
+com.shvet.network.app-debug-38 C:\Users\shvet\AndroidStudioProjects\hw4-1ch-network-shvetsovart\app\src\debug\res
+com.shvet.network.app-main-39 C:\Users\shvet\AndroidStudioProjects\hw4-1ch-network-shvetsovart\app\src\main\res

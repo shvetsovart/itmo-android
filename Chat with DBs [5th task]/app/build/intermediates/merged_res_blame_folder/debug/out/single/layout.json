@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-mergeDebugResources-36:\\layout\\image_full_res_layout.xml",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\layout\\image_full_res_layout.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-mergeDebugResources-36:\\layout\\message_layout.xml",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\layout\\message_layout.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-mergeDebugResources-36:\\layout\\user_message_layout.xml",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\layout\\user_message_layout.xml"
+    },
+    {
+        "merged": "com.shvet.network.app-mergeDebugResources-36:/layout/image_message_layout.xml",
+        "source": "com.shvet.network.app-main-39:/layout/image_message_layout.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-mergeDebugResources-36:\\layout\\user_image_message_layout.xml",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\layout\\user_image_message_layout.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-mergeDebugResources-36:\\layout\\image_message_layout.xml",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\layout\\image_message_layout.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-mergeDebugResources-36:\\layout\\activity_main.xml",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\layout\\activity_main.xml"
+    }
+]

@@ -1,0 +1,110 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.shvet.network"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\Users\shvet\AndroidStudioProjects\hw4-1ch-network-shvetsovart\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\shvet\AndroidStudioProjects\hw4-1ch-network-shvetsovart\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\shvet\AndroidStudioProjects\hw4-1ch-network-shvetsovart\app\src\main\AndroidManifest.xml:6:5-66
+11-->C:\Users\shvet\AndroidStudioProjects\hw4-1ch-network-shvetsovart\app\src\main\AndroidManifest.xml:6:22-64
+12
+13    <application
+13-->C:\Users\shvet\AndroidStudioProjects\hw4-1ch-network-shvetsovart\app\src\main\AndroidManifest.xml:8:5-39:19
+14        android:allowBackup="true"
+14-->C:\Users\shvet\AndroidStudioProjects\hw4-1ch-network-shvetsovart\app\src\main\AndroidManifest.xml:9:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.8.0] C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\97963bb51e2e9df26effca3f9e82b218\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+16        android:dataExtractionRules="@xml/data_extraction_rules"
+16-->C:\Users\shvet\AndroidStudioProjects\hw4-1ch-network-shvetsovart\app\src\main\AndroidManifest.xml:10:9-65
+17        android:debuggable="true"
+18        android:extractNativeLibs="false"
+19        android:fullBackupContent="@xml/backup_rules"
+19-->C:\Users\shvet\AndroidStudioProjects\hw4-1ch-network-shvetsovart\app\src\main\AndroidManifest.xml:11:9-54
+20        android:icon="@mipmap/ic_launcher"
+20-->C:\Users\shvet\AndroidStudioProjects\hw4-1ch-network-shvetsovart\app\src\main\AndroidManifest.xml:12:9-43
+21        android:label="@string/app_name"
+21-->C:\Users\shvet\AndroidStudioProjects\hw4-1ch-network-shvetsovart\app\src\main\AndroidManifest.xml:13:9-41
+22        android:networkSecurityConfig="@xml/network_security_config"
+22-->C:\Users\shvet\AndroidStudioProjects\hw4-1ch-network-shvetsovart\app\src\main\AndroidManifest.xml:14:9-69
+23        android:roundIcon="@mipmap/ic_launcher_round"
+23-->C:\Users\shvet\AndroidStudioProjects\hw4-1ch-network-shvetsovart\app\src\main\AndroidManifest.xml:15:9-54
+24        android:supportsRtl="true"
+24-->C:\Users\shvet\AndroidStudioProjects\hw4-1ch-network-shvetsovart\app\src\main\AndroidManifest.xml:16:9-35
+25        android:testOnly="true"
+26        android:theme="@style/Theme.MyApplication" >
+26-->C:\Users\shvet\AndroidStudioProjects\hw4-1ch-network-shvetsovart\app\src\main\AndroidManifest.xml:17:9-51
+27        <activity
+27-->C:\Users\shvet\AndroidStudioProjects\hw4-1ch-network-shvetsovart\app\src\main\AndroidManifest.xml:20:9-29:20
+28            android:name="com.shvet.network.MainActivity"
+28-->C:\Users\shvet\AndroidStudioProjects\hw4-1ch-network-shvetsovart\app\src\main\AndroidManifest.xml:21:13-41
+29            android:exported="true"
+29-->C:\Users\shvet\AndroidStudioProjects\hw4-1ch-network-shvetsovart\app\src\main\AndroidManifest.xml:23:13-36
+30            android:windowSoftInputMode="adjustResize" >
+30-->C:\Users\shvet\AndroidStudioProjects\hw4-1ch-network-shvetsovart\app\src\main\AndroidManifest.xml:22:13-55
+31            <intent-filter>
+31-->C:\Users\shvet\AndroidStudioProjects\hw4-1ch-network-shvetsovart\app\src\main\AndroidManifest.xml:24:13-28:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->C:\Users\shvet\AndroidStudioProjects\hw4-1ch-network-shvetsovart\app\src\main\AndroidManifest.xml:25:17-69
+32-->C:\Users\shvet\AndroidStudioProjects\hw4-1ch-network-shvetsovart\app\src\main\AndroidManifest.xml:25:25-66
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->C:\Users\shvet\AndroidStudioProjects\hw4-1ch-network-shvetsovart\app\src\main\AndroidManifest.xml:27:17-77
+34-->C:\Users\shvet\AndroidStudioProjects\hw4-1ch-network-shvetsovart\app\src\main\AndroidManifest.xml:27:27-74
+35            </intent-filter>
+36        </activity>
+37        <activity
+37-->C:\Users\shvet\AndroidStudioProjects\hw4-1ch-network-shvetsovart\app\src\main\AndroidManifest.xml:31:9-36:20
+38            android:name="com.shvet.network.ImageFullResActivity"
+38-->C:\Users\shvet\AndroidStudioProjects\hw4-1ch-network-shvetsovart\app\src\main\AndroidManifest.xml:31:19-55
+39            android:exported="true" >
+39-->C:\Users\shvet\AndroidStudioProjects\hw4-1ch-network-shvetsovart\app\src\main\AndroidManifest.xml:32:13-36
+40            <intent-filter>
+40-->C:\Users\shvet\AndroidStudioProjects\hw4-1ch-network-shvetsovart\app\src\main\AndroidManifest.xml:33:13-35:29
+41                <action android:name="IMAGE_FULL" />
+41-->C:\Users\shvet\AndroidStudioProjects\hw4-1ch-network-shvetsovart\app\src\main\AndroidManifest.xml:34:17-52
+41-->C:\Users\shvet\AndroidStudioProjects\hw4-1ch-network-shvetsovart\app\src\main\AndroidManifest.xml:34:25-50
+42            </intent-filter>
+43        </activity>
+44
+45        <service android:name="com.shvet.network.MessageService" />
+45-->C:\Users\shvet\AndroidStudioProjects\hw4-1ch-network-shvetsovart\app\src\main\AndroidManifest.xml:38:9-50
+45-->C:\Users\shvet\AndroidStudioProjects\hw4-1ch-network-shvetsovart\app\src\main\AndroidManifest.xml:38:18-48
+46        <service
+46-->[androidx.room:room-runtime:2.4.3] C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\f0eea8e61d9dedd42050f033704d6a70\transformed\room-runtime-2.4.3\AndroidManifest.xml:25:9-28:40
+47            android:name="androidx.room.MultiInstanceInvalidationService"
+47-->[androidx.room:room-runtime:2.4.3] C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\f0eea8e61d9dedd42050f033704d6a70\transformed\room-runtime-2.4.3\AndroidManifest.xml:26:13-74
+48            android:directBootAware="true"
+48-->[androidx.room:room-runtime:2.4.3] C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\f0eea8e61d9dedd42050f033704d6a70\transformed\room-runtime-2.4.3\AndroidManifest.xml:27:13-43
+49            android:exported="false" />
+49-->[androidx.room:room-runtime:2.4.3] C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\f0eea8e61d9dedd42050f033704d6a70\transformed\room-runtime-2.4.3\AndroidManifest.xml:28:13-37
+50
+51        <provider
+51-->[androidx.emoji2:emoji2:1.2.0] C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\66814d0c9c223a08105bc116aeb53dd5\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+52            android:name="androidx.startup.InitializationProvider"
+52-->[androidx.emoji2:emoji2:1.2.0] C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\66814d0c9c223a08105bc116aeb53dd5\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+53            android:authorities="com.shvet.network.androidx-startup"
+53-->[androidx.emoji2:emoji2:1.2.0] C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\66814d0c9c223a08105bc116aeb53dd5\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+54            android:exported="false" >
+54-->[androidx.emoji2:emoji2:1.2.0] C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\66814d0c9c223a08105bc116aeb53dd5\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+55            <meta-data
+55-->[androidx.emoji2:emoji2:1.2.0] C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\66814d0c9c223a08105bc116aeb53dd5\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+56                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+56-->[androidx.emoji2:emoji2:1.2.0] C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\66814d0c9c223a08105bc116aeb53dd5\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+57                android:value="androidx.startup" />
+57-->[androidx.emoji2:emoji2:1.2.0] C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\66814d0c9c223a08105bc116aeb53dd5\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+58            <meta-data
+58-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\d64e7ca6b93f4a6c092b1dd37cf249d6\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+59                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+59-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\d64e7ca6b93f4a6c092b1dd37cf249d6\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+60                android:value="androidx.startup" />
+60-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\d64e7ca6b93f4a6c092b1dd37cf249d6\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+61        </provider>
+62    </application>
+63
+64</manifest>

@@ -1,0 +1,46 @@
+com.shvet.messenger.app-core-1.9.0-0 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\063c0685dc34e268e1a70ee2ae97523b\transformed\core-1.9.0\res
+com.shvet.messenger.app-core-ktx-1.9.0-1 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\0c9f627ee333738784d3ed0f2a9a7b2b\transformed\core-ktx-1.9.0\res
+com.shvet.messenger.app-lifecycle-livedata-2.6.1-2 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\1e1f9a3c9eac0e03d3446504f9ceb468\transformed\lifecycle-livedata-2.6.1\res
+com.shvet.messenger.app-sqlite-2.2.0-3 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\1e5768d3921db9fafd4ebaeb28d24ba0\transformed\sqlite-2.2.0\res
+com.shvet.messenger.app-fragment-1.5.6-4 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\1e7c376ca2b6bc667bae01d17b0f501c\transformed\fragment-1.5.6\res
+com.shvet.messenger.app-activity-1.6.0-5 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\2847b6e69f6c662407cfdda545349174\transformed\activity-1.6.0\res
+com.shvet.messenger.app-lifecycle-process-2.6.1-6 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\2b4c374eb29d3803e2db41d4fa77ca89\transformed\lifecycle-process-2.6.1\res
+com.shvet.messenger.app-cardview-1.0.0-7 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\32462a6d1c094b648c3b92c57b53e1c8\transformed\cardview-1.0.0\res
+com.shvet.messenger.app-appcompat-resources-1.6.1-8 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\32b73691d8b255f28e905ddf4b69d403\transformed\appcompat-resources-1.6.1\res
+com.shvet.messenger.app-transition-1.2.0-9 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\3b796e89445ee2be21bbeb31d85721b3\transformed\transition-1.2.0\res
+com.shvet.messenger.app-lifecycle-viewmodel-2.6.1-10 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\46270a6d12d11c3338c5b8f04f1c3ba8\transformed\lifecycle-viewmodel-2.6.1\res
+com.shvet.messenger.app-customview-poolingcontainer-1.0.0-11 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\472b59e55215d9bf80cd3c7fe4dbcb4b\transformed\customview-poolingcontainer-1.0.0\res
+com.shvet.messenger.app-lifecycle-livedata-core-ktx-2.6.1-12 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\50eec873492c1a5007c9704cb9f20553\transformed\lifecycle-livedata-core-ktx-2.6.1\res
+com.shvet.messenger.app-coordinatorlayout-1.1.0-13 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\5217a1cf488c4793c6fe4d81a240de90\transformed\coordinatorlayout-1.1.0\res
+com.shvet.messenger.app-core-runtime-2.2.0-14 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\558b03d5657683de38ffb53a46c1feb4\transformed\core-runtime-2.2.0\res
+com.shvet.messenger.app-savedstate-1.2.1-15 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\5d482e64cce2dad734933910094a3848\transformed\savedstate-1.2.1\res
+com.shvet.messenger.app-room-runtime-2.4.3-16 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\66aa3b9356977c8a084bab4f5dc71977\transformed\room-runtime-2.4.3\res
+com.shvet.messenger.app-sqlite-framework-2.2.0-17 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\688bc282c7e80ba1804fa9dde94129f4\transformed\sqlite-framework-2.2.0\res
+com.shvet.messenger.app-viewpager2-1.0.0-18 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\6d912d17dba9b8525cd3dfa6497c9173\transformed\viewpager2-1.0.0\res
+com.shvet.messenger.app-lifecycle-runtime-ktx-2.6.1-19 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\713a3d5ba2225e8c91d302ef865b9c5b\transformed\lifecycle-runtime-ktx-2.6.1\res
+com.shvet.messenger.app-lifecycle-runtime-2.6.1-20 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\85dcd21ed42fdbc21943b076f6d7be0b\transformed\lifecycle-runtime-2.6.1\res
+com.shvet.messenger.app-appcompat-1.6.1-21 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\914b13d4a98961c3cb448bd1e9c93a97\transformed\appcompat-1.6.1\res
+com.shvet.messenger.app-room-ktx-2.4.3-22 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\91d0dae863047a6addc991590c3cf787\transformed\room-ktx-2.4.3\res
+com.shvet.messenger.app-drawerlayout-1.1.1-23 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\9ab0f582bf0e9048e113e609932b70a1\transformed\drawerlayout-1.1.1\res
+com.shvet.messenger.app-profileinstaller-1.3.0-24 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\9c9632d5e42fa0b5c332df0632577756\transformed\profileinstaller-1.3.0\res
+com.shvet.messenger.app-lifecycle-livedata-core-2.6.1-25 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\9ecfc3b36f7865ecf6d3a72a84737b63\transformed\lifecycle-livedata-core-2.6.1\res
+com.shvet.messenger.app-activity-ktx-1.6.0-26 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\a1fcf13991dbf113828b3d7de581bf5f\transformed\activity-ktx-1.6.0\res
+com.shvet.messenger.app-fragment-ktx-1.5.6-27 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\b3e67ceaaa96772fc6d095f62513eb4b\transformed\fragment-ktx-1.5.6\res
+com.shvet.messenger.app-savedstate-ktx-1.2.1-28 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\cb7587ffe5abef4e3cb14d2edcb5947c\transformed\savedstate-ktx-1.2.1\res
+com.shvet.messenger.app-annotation-experimental-1.3.0-29 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\ceb47e476be27f23f8291d7082a099e5\transformed\annotation-experimental-1.3.0\res
+com.shvet.messenger.app-lifecycle-viewmodel-ktx-2.6.1-30 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\d287b677a538bdcfdc82c5a1c60eed95\transformed\lifecycle-viewmodel-ktx-2.6.1\res
+com.shvet.messenger.app-lifecycle-viewmodel-savedstate-2.6.1-31 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\d8a601211d226b560b15e2efa81baade\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.shvet.messenger.app-emoji2-1.2.0-32 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\dbef6635aac8426fa136b8fc525e1352\transformed\emoji2-1.2.0\res
+com.shvet.messenger.app-emoji2-views-helper-1.2.0-33 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\e1b7aed59a11fb7e82915201da25832a\transformed\emoji2-views-helper-1.2.0\res
+com.shvet.messenger.app-startup-runtime-1.1.1-34 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\e295e6c951fdd08680d4f2ffdacca50b\transformed\startup-runtime-1.1.1\res
+com.shvet.messenger.app-constraintlayout-2.1.4-35 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\e4a28e8bd0e7c895498b6546b7ca0325\transformed\constraintlayout-2.1.4\res
+com.shvet.messenger.app-recyclerview-1.3.0-36 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\e5d9571b2c81d865d493a02d49c9c6be\transformed\recyclerview-1.3.0\res
+com.shvet.messenger.app-material-1.8.0-37 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\f42741f83a843f7fda4558f102e1fa6c\transformed\material-1.8.0\res
+com.shvet.messenger.app-pngs-38 C:\Users\shvet\AndroidStudioProjects\hw7-im-shvetsovart\app\build\generated\res\pngs\debug
+com.shvet.messenger.app-resValues-39 C:\Users\shvet\AndroidStudioProjects\hw7-im-shvetsovart\app\build\generated\res\resValues\debug
+com.shvet.messenger.app-rs-40 C:\Users\shvet\AndroidStudioProjects\hw7-im-shvetsovart\app\build\generated\res\rs\debug
+com.shvet.messenger.app-packageDebugResources-41 C:\Users\shvet\AndroidStudioProjects\hw7-im-shvetsovart\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.shvet.messenger.app-packageDebugResources-42 C:\Users\shvet\AndroidStudioProjects\hw7-im-shvetsovart\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.shvet.messenger.app-merged_res-43 C:\Users\shvet\AndroidStudioProjects\hw7-im-shvetsovart\app\build\intermediates\merged_res\debug
+com.shvet.messenger.app-debug-44 C:\Users\shvet\AndroidStudioProjects\hw7-im-shvetsovart\app\src\debug\res
+com.shvet.messenger.app-main-45 C:\Users\shvet\AndroidStudioProjects\hw7-im-shvetsovart\app\src\main\res

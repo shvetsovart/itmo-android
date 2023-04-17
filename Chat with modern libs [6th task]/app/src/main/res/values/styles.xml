@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MessageStyle" parent="TextAppearance.AppCompat">
+        <item name="android:background">@drawable/day_round_message</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="UserMessageStyle" parent="TextAppearance.AppCompat">
+        <item name="android:background">@drawable/day_round_user_message</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="AttachButton" parent="TextAppearance.AppCompat">
+        <item name="android:background">@drawable/day_round_button</item>
+        <item name="android:src">@drawable/day_attach_button</item>
+    </style>
+
+    <style name="SendButton" parent="TextAppearance.AppCompat">
+        <item name="android:background">@drawable/day_round_button</item>
+        <item name="android:src">@drawable/day_send_button</item>
+    </style>
+
+    <style name="NickStyle" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="UserNickStyle" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/from_user</item>
+    </style>
+
+</resources>

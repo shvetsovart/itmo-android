@@ -1,0 +1,484 @@
+# 2023-04-01T10:53:35.724Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 9
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "ExampleInstrumentedTest"
+    test_package: "com.shvet.hw10"
+    test_method: "calculatesOnClick"
+    start_time {
+      seconds: 1680346389
+      nanos: 855000000
+    }
+    end_time {
+      seconds: 1680346393
+      nanos: 186000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\shvet\\AndroidStudioProjects\\hw10-test-shvetsovart\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_27(AVD) - 8.1.0\\logcat-com.shvet.hw10.ExampleInstrumentedTest-calculatesOnClick.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\shvet\\AndroidStudioProjects\\hw10-test-shvetsovart\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_27(AVD) - 8.1.0\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\shvet\\AndroidStudioProjects\\hw10-test-shvetsovart\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_27(AVD) - 8.1.0\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\shvet\\AndroidStudioProjects\\hw10-test-shvetsovart\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_27(AVD) - 8.1.0\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "ExampleInstrumentedTest"
+    test_package: "com.shvet.hw10"
+    test_method: "displaysNumberOnClick"
+    start_time {
+      seconds: 1680346393
+      nanos: 213000000
+    }
+    end_time {
+      seconds: 1680346394
+      nanos: 886000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\shvet\\AndroidStudioProjects\\hw10-test-shvetsovart\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_27(AVD) - 8.1.0\\logcat-com.shvet.hw10.ExampleInstrumentedTest-displaysNumberOnClick.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\shvet\\AndroidStudioProjects\\hw10-test-shvetsovart\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_27(AVD) - 8.1.0\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\shvet\\AndroidStudioProjects\\hw10-test-shvetsovart\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_27(AVD) - 8.1.0\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\shvet\\AndroidStudioProjects\\hw10-test-shvetsovart\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_27(AVD) - 8.1.0\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "ExampleInstrumentedTest"
+    test_package: "com.shvet.hw10"
+    test_method: "resultSurvivesRotation"
+    start_time {
+      seconds: 1680346394
+      nanos: 890000000
+    }
+    end_time {
+      seconds: 1680346398
+      nanos: 270000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\shvet\\AndroidStudioProjects\\hw10-test-shvetsovart\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_27(AVD) - 8.1.0\\logcat-com.shvet.hw10.ExampleInstrumentedTest-resultSurvivesRotation.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\shvet\\AndroidStudioProjects\\hw10-test-shvetsovart\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_27(AVD) - 8.1.0\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\shvet\\AndroidStudioProjects\\hw10-test-shvetsovart\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_27(AVD) - 8.1.0\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\shvet\\AndroidStudioProjects\\hw10-test-shvetsovart\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_27(AVD) - 8.1.0\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "ExampleInstrumentedTest"
+    test_package: "com.shvet.hw10"
+    test_method: "keepsSingleOperationSymbol"
+    start_time {
+      seconds: 1680346398
+      nanos: 299000000
+    }
+    end_time {
+      seconds: 1680346400
+      nanos: 781000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\shvet\\AndroidStudioProjects\\hw10-test-shvetsovart\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_27(AVD) - 8.1.0\\logcat-com.shvet.hw10.ExampleInstrumentedTest-keepsSingleOperationSymbol.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\shvet\\AndroidStudioProjects\\hw10-test-shvetsovart\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_27(AVD) - 8.1.0\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\shvet\\AndroidStudioProjects\\hw10-test-shvetsovart\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_27(AVD) - 8.1.0\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\shvet\\AndroidStudioProjects\\hw10-test-shvetsovart\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_27(AVD) - 8.1.0\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "ExampleInstrumentedTest"
+    test_package: "com.shvet.hw10"
+    test_method: "ignoresOperationWithoutArguments"
+    start_time {
+      seconds: 1680346400
+      nanos: 811000000
+    }
+    end_time {
+      seconds: 1680346403
+      nanos: 478000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\shvet\\AndroidStudioProjects\\hw10-test-shvetsovart\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_27(AVD) - 8.1.0\\logcat-com.shvet.hw10.ExampleInstrumentedTest-ignoresOperationWithoutArguments.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\shvet\\AndroidStudioProjects\\hw10-test-shvetsovart\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_27(AVD) - 8.1.0\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\shvet\\AndroidStudioProjects\\hw10-test-shvetsovart\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_27(AVD) - 8.1.0\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\shvet\\AndroidStudioProjects\\hw10-test-shvetsovart\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_27(AVD) - 8.1.0\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "ExampleInstrumentedTest"
+    test_package: "com.shvet.hw10"
+    test_method: "handlesUnaryMinus"
+    start_time {
+      seconds: 1680346403
+      nanos: 505000000
+    }
+    end_time {
+      seconds: 1680346407
+      nanos: 600000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\shvet\\AndroidStudioProjects\\hw10-test-shvetsovart\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_27(AVD) - 8.1.0\\logcat-com.shvet.hw10.ExampleInstrumentedTest-handlesUnaryMinus.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\shvet\\AndroidStudioProjects\\hw10-test-shvetsovart\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_27(AVD) - 8.1.0\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\shvet\\AndroidStudioProjects\\hw10-test-shvetsovart\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_27(AVD) - 8.1.0\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\shvet\\AndroidStudioProjects\\hw10-test-shvetsovart\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_27(AVD) - 8.1.0\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "ExampleInstrumentedTest"
+    test_package: "com.shvet.hw10"
+    test_method: "clearsResultField"
+    start_time {
+      seconds: 1680346407
+      nanos: 604000000
+    }
+    end_time {
+      seconds: 1680346410
+      nanos: 173000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\shvet\\AndroidStudioProjects\\hw10-test-shvetsovart\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_27(AVD) - 8.1.0\\logcat-com.shvet.hw10.ExampleInstrumentedTest-clearsResultField.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\shvet\\AndroidStudioProjects\\hw10-test-shvetsovart\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_27(AVD) - 8.1.0\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\shvet\\AndroidStudioProjects\\hw10-test-shvetsovart\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_27(AVD) - 8.1.0\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\shvet\\AndroidStudioProjects\\hw10-test-shvetsovart\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_27(AVD) - 8.1.0\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "ExampleInstrumentedTest"
+    test_package: "com.shvet.hw10"
+    test_method: "allowsTrailingZeroes"
+    start_time {
+      seconds: 1680346410
+      nanos: 202000000
+    }
+    end_time {
+      seconds: 1680346412
+      nanos: 814000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\shvet\\AndroidStudioProjects\\hw10-test-shvetsovart\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_27(AVD) - 8.1.0\\logcat-com.shvet.hw10.ExampleInstrumentedTest-allowsTrailingZeroes.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\shvet\\AndroidStudioProjects\\hw10-test-shvetsovart\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_27(AVD) - 8.1.0\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\shvet\\AndroidStudioProjects\\hw10-test-shvetsovart\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_27(AVD) - 8.1.0\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\shvet\\AndroidStudioProjects\\hw10-test-shvetsovart\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_27(AVD) - 8.1.0\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "ExampleInstrumentedTest"
+    test_package: "com.shvet.hw10"
+    test_method: "keepsSingleLeadingZero"
+    start_time {
+      seconds: 1680346412
+      nanos: 819000000
+    }
+    end_time {
+      seconds: 1680346414
+      nanos: 823000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\shvet\\AndroidStudioProjects\\hw10-test-shvetsovart\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_27(AVD) - 8.1.0\\logcat-com.shvet.hw10.ExampleInstrumentedTest-keepsSingleLeadingZero.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\shvet\\AndroidStudioProjects\\hw10-test-shvetsovart\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_27(AVD) - 8.1.0\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\shvet\\AndroidStudioProjects\\hw10-test-shvetsovart\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_27(AVD) - 8.1.0\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\shvet\\AndroidStudioProjects\\hw10-test-shvetsovart\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_27(AVD) - 8.1.0\\cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "C:\\Users\\shvet\\AndroidStudioProjects\\hw10-test-shvetsovart\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_6_Pro_API_27(AVD) - 8.1.0\\testlog\\test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}

@@ -1,0 +1,229 @@
+04-01 10:53:12.332  8209  8237 I TestRunner: started: displaysNumberOnClick(com.shvet.hw10.ExampleInstrumentedTest)
+04-01 10:53:12.344  8209  8237 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+04-01 10:53:12.349 30033 30040 I zygote  : Ignoring second debugger -- accepting and dropping
+04-01 10:53:12.366  1444 19389 D gralloc_ranchu: gralloc_unregister_buffer: exiting HostConnection (is buffer-handling thread)
+04-01 10:53:12.368  1444 19389 D         : HostConnection::get() New Host Connection established 0xefc23a40, tid 19389
+04-01 10:53:12.372  8209  8216 I zygote  : Ignoring second debugger -- accepting and dropping
+04-01 10:53:12.373  1444 19389 D gralloc_ranchu: gralloc_unregister_buffer: exiting HostConnection (is buffer-handling thread)
+04-01 10:53:12.376  8250  8275 D         : HostConnection::get() New Host Connection established 0xdd334300, tid 8275
+04-01 10:53:12.377  1443 24057 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 17973248
+04-01 10:53:12.380  1443 24057 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 17973248
+04-01 10:53:12.382  1444 19389 D         : HostConnection::get() New Host Connection established 0xefc23a40, tid 19389
+04-01 10:53:12.384  1443 24057 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 17973248
+04-01 10:53:12.384  1810  5346 I zygote  : android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasWideColorDisplay retrieved: 0
+04-01 10:53:12.385  1810  5346 I OpenGLRenderer: Initialized EGL, version 1.4
+04-01 10:53:12.385  1810  5346 D OpenGLRenderer: Swap behavior 1
+04-01 10:53:12.386  1810  5346 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+04-01 10:53:12.387  8250  8275 I zygote  : android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasWideColorDisplay retrieved: 0
+04-01 10:53:12.387  8250  8275 I OpenGLRenderer: Initialized EGL, version 1.4
+04-01 10:53:12.387  8250  8275 D OpenGLRenderer: Swap behavior 1
+04-01 10:53:12.387  8250  8275 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+04-01 10:53:12.387  8250  8275 D OpenGLRenderer: Swap behavior 0
+04-01 10:53:12.390  1810  5346 D OpenGLRenderer: Swap behavior 0
+04-01 10:53:12.396  1810  1816 I zygote  : Ignoring second debugger -- accepting and dropping
+04-01 10:53:12.406  8250  8275 D EGL_emulation: eglCreateContext: 0xe5875680: maj 2 min 0 rcv 2
+04-01 10:53:12.415  8209  8209 D LifecycleMonitor: Lifecycle status change: com.shvet.hw10.MainActivity@54708f7 in: PRE_ON_CREATE
+04-01 10:53:12.415  8209  8209 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+04-01 10:53:12.415  1810  5346 D EGL_emulation: eglCreateContext: 0xe84e3b40: maj 2 min 0 rcv 2
+04-01 10:53:12.418  8250  8275 D EGL_emulation: eglMakeCurrent: 0xe5875680: ver 2 0 (tinfo 0xde86f420)
+04-01 10:53:12.419  1810  5346 D EGL_emulation: eglMakeCurrent: 0xe84e3b40: ver 2 0 (tinfo 0xce9b95b0)
+04-01 10:53:12.423  1453  1931 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+04-01 10:53:12.431 27954 27961 I zygote  : Ignoring second debugger -- accepting and dropping
+04-01 10:53:12.441  1810  1904 D gralloc_ranchu: gralloc_unregister_buffer: exiting HostConnection (is buffer-handling thread)
+04-01 10:53:12.446  1810  1904 D         : HostConnection::get() New Host Connection established 0xd075cdc0, tid 1904
+04-01 10:53:12.450  1810  1904 D gralloc_ranchu: gralloc_unregister_buffer: exiting HostConnection (is buffer-handling thread)
+04-01 10:53:12.452  8250  8275 D EGL_emulation: eglMakeCurrent: 0xe5875680: ver 2 0 (tinfo 0xde86f420)
+04-01 10:53:12.458  1443 24057 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 17973248
+04-01 10:53:12.462 31026 31033 I zygote  : Ignoring second debugger -- accepting and dropping
+04-01 10:53:12.471  8209  8214 I zygote  : Do partial code cache collection, code=123KB, data=74KB
+04-01 10:53:12.473  8209  8214 I zygote  : After code cache collection, code=123KB, data=74KB
+04-01 10:53:12.475  8209  8214 I zygote  : Increasing code cache capacity to 512KB
+04-01 10:53:12.482 22611 22618 I zygote  : Ignoring second debugger -- accepting and dropping
+04-01 10:53:12.483  1810  1904 D         : HostConnection::get() New Host Connection established 0xd075cdc0, tid 1904
+04-01 10:53:12.501  1810  1820 I zygote  : NativeAlloc concurrent copying GC freed 32588(2MB) AllocSpace objects, 14(472KB) LOS objects, 38% free, 9MB/15MB, paused 773us total 140.740ms
+04-01 10:53:12.506 22420 22427 I zygote  : Ignoring second debugger -- accepting and dropping
+04-01 10:53:12.531  2006  2041 I zygote  : Ignoring second debugger -- accepting and dropping
+04-01 10:53:12.546  8209  8209 D LifecycleMonitor: Lifecycle status change: com.shvet.hw10.MainActivity@54708f7 in: CREATED
+04-01 10:53:12.548  8209  8209 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.shvet.hw10.MainActivity@54708f7
+04-01 10:53:12.550  8209  8209 D LifecycleMonitor: Lifecycle status change: com.shvet.hw10.MainActivity@54708f7 in: STARTED
+04-01 10:53:12.550  8209  8209 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.shvet.hw10.MainActivity@54708f7
+04-01 10:53:12.555  8209  8209 D LifecycleMonitor: Lifecycle status change: com.shvet.hw10.MainActivity@54708f7 in: RESUMED
+04-01 10:53:12.556 19863 19870 I zygote  : Ignoring second debugger -- accepting and dropping
+04-01 10:53:12.559  8209  8209 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.shvet.hw10.MainActivity@54708f7
+04-01 10:53:12.579  2006  2043 D         : HostConnection::get() New Host Connection established 0xe011cd00, tid 2043
+04-01 10:53:12.580  2006  2043 D gralloc_ranchu: gralloc_unregister_buffer: exiting HostConnection (is buffer-handling thread)
+04-01 10:53:12.581  2006  2043 D         : HostConnection::get() New Host Connection established 0xe011cd00, tid 2043
+04-01 10:53:12.581  2006  2043 D gralloc_ranchu: gralloc_unregister_buffer: exiting HostConnection (is buffer-handling thread)
+04-01 10:53:12.582 19832 19841 I zygote  : Ignoring second debugger -- accepting and dropping
+04-01 10:53:12.582  2006  2046 D         : HostConnection::get() New Host Connection established 0xccf2bbc0, tid 2046
+04-01 10:53:12.583  2006  2046 D gralloc_ranchu: gralloc_unregister_buffer: exiting HostConnection (is buffer-handling thread)
+04-01 10:53:12.584  2006  2046 D         : HostConnection::get() New Host Connection established 0xccf2bbc0, tid 2046
+04-01 10:53:12.585  2006  2046 D gralloc_ranchu: gralloc_unregister_buffer: exiting HostConnection (is buffer-handling thread)
+04-01 10:53:12.599  8250  8275 D EGL_emulation: eglMakeCurrent: 0xe5875680: ver 2 0 (tinfo 0xde86f420)
+04-01 10:53:12.606  8250  8257 I zygote  : Ignoring second debugger -- accepting and dropping
+04-01 10:53:12.606  1453  1475 D gralloc_ranchu: gralloc_unregister_buffer: exiting HostConnection (is buffer-handling thread)
+04-01 10:53:12.607  1453  1475 D         : HostConnection::get() New Host Connection established 0xec7c6880, tid 1475
+04-01 10:53:12.607  1453  1475 D gralloc_ranchu: gralloc_unregister_buffer: exiting HostConnection (is buffer-handling thread)
+04-01 10:53:12.607  1453  1475 D         : HostConnection::get() New Host Connection established 0xec7c6880, tid 1475
+04-01 10:53:12.608  1453  1475 D gralloc_ranchu: gralloc_unregister_buffer: exiting HostConnection (is buffer-handling thread)
+04-01 10:53:12.609  1453  1475 D         : HostConnection::get() New Host Connection established 0xec7c6880, tid 1475
+04-01 10:53:12.611  1453  1475 D gralloc_ranchu: gralloc_unregister_buffer: exiting HostConnection (is buffer-handling thread)
+04-01 10:53:12.629  4987  4995 I zygote  : Ignoring second debugger -- accepting and dropping
+04-01 10:53:12.635  1443 24057 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 17973248
+04-01 10:53:12.640  1453  1475 D         : HostConnection::get() New Host Connection established 0xec7c6cc0, tid 1475
+04-01 10:53:12.643  1443 24057 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 17973248
+04-01 10:53:12.646  1443  1489 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 17973248
+04-01 10:53:12.648 19171  8279 E memtrack: Couldn't load memtrack module
+04-01 10:53:12.649 19171  8279 W android.os.Debug: failed to get memory consumption info: -1
+04-01 10:53:12.654  2141  2152 I zygote  : Ignoring second debugger -- accepting and dropping
+04-01 10:53:12.677 19999 20006 I zygote  : Ignoring second debugger -- accepting and dropping
+04-01 10:53:12.691  8209  8241 D EGL_emulation: eglMakeCurrent: 0xe0105120: ver 2 0 (tinfo 0xe0103350)
+04-01 10:53:12.736  1810  1840 I ActivityManager: Displayed com.shvet.hw10/.MainActivity: +337ms (total +580ms)
+04-01 10:53:12.746  8209  8209 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230825/com.shvet.hw10:id/button7>
+04-01 10:53:12.928  1444 19389 D gralloc_ranchu: gralloc_unregister_buffer: exiting HostConnection (is buffer-handling thread)
+04-01 10:53:12.928  1444 19389 D         : HostConnection::get() New Host Connection established 0xefc23a40, tid 19389
+04-01 10:53:12.929  1444 19389 D gralloc_ranchu: gralloc_unregister_buffer: exiting HostConnection (is buffer-handling thread)
+04-01 10:53:12.929  1810  1904 D gralloc_ranchu: gralloc_unregister_buffer: exiting HostConnection (is buffer-handling thread)
+04-01 10:53:12.930  1810  1904 D         : HostConnection::get() New Host Connection established 0xd075cdc0, tid 1904
+04-01 10:53:12.931  1810  1904 D gralloc_ranchu: gralloc_unregister_buffer: exiting HostConnection (is buffer-handling thread)
+04-01 10:53:12.938  1444 19389 D         : HostConnection::get() New Host Connection established 0xefc23a40, tid 19389
+04-01 10:53:13.031  8209  8209 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: is "7"}' assertion on view view.getId() is <2131231226/com.shvet.hw10:id/workingsTextView>
+04-01 10:53:13.042  8209  8209 D LifecycleMonitor: Lifecycle status change: com.shvet.hw10.MainActivity@54708f7 in: PAUSED
+04-01 10:53:13.042  8209  8209 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.shvet.hw10.MainActivity@54708f7
+04-01 10:53:13.068  1443  1489 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 17973248
+04-01 10:53:13.072  1810  1904 D         : HostConnection::get() New Host Connection established 0xcfca4380, tid 1904
+04-01 10:53:13.101  1443  1489 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 17973248
+04-01 10:53:13.105  1453  1476 D         : HostConnection::get() New Host Connection established 0xec4a15c0, tid 1476
+04-01 10:53:13.109  1443  1489 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 17973248
+04-01 10:53:13.112  1443  1489 I chatty  : uid=1000(system) HwBinder:1443_1 identical 1 line
+04-01 10:53:13.122  1443  1489 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 17973248
+04-01 10:53:13.125  8209  8241 D EGL_emulation: eglMakeCurrent: 0xe0105120: ver 2 0 (tinfo 0xe0103350)
+04-01 10:53:13.128  1453  1932 D gralloc_ranchu: gralloc_unregister_buffer: exiting HostConnection (is buffer-handling thread)
+04-01 10:53:13.128  1453  1932 D         : HostConnection::get() New Host Connection established 0xeb36aa80, tid 1932
+04-01 10:53:13.129  1453  1932 D gralloc_ranchu: gralloc_unregister_buffer: exiting HostConnection (is buffer-handling thread)
+04-01 10:53:13.135  1453  1453 E EGL_emulation: tid 1453: eglCreateSyncKHR(2017): error 0x3004 (EGL_BAD_ATTRIBUTE)
+04-01 10:53:13.233  1453  1476 D gralloc_ranchu: gralloc_unregister_buffer: exiting HostConnection (is buffer-handling thread)
+04-01 10:53:13.233  1453  1476 D         : HostConnection::get() New Host Connection established 0xec4a15c0, tid 1476
+04-01 10:53:13.234  1453  1476 D gralloc_ranchu: gralloc_unregister_buffer: exiting HostConnection (is buffer-handling thread)
+04-01 10:53:13.238  1810  1840 W zygote  : Long monitor contention with owner android.anim (1904) at void com.android.server.wm.WindowSurfacePlacer.lambda$-com_android_server_wm_WindowSurfacePlacer_5337()(WindowSurfacePlacer.java:107) waiters=0 in void com.android.server.wm.WindowManagerService$H.handleMessage(android.os.Message) for 126ms
+04-01 10:53:13.244  1444 19389 D gralloc_ranchu: gralloc_unregister_buffer: exiting HostConnection (is buffer-handling thread)
+04-01 10:53:13.245  1444 19389 D         : HostConnection::get() New Host Connection established 0xefc23a40, tid 19389
+04-01 10:53:13.245  1444 19389 D gralloc_ranchu: gralloc_unregister_buffer: exiting HostConnection (is buffer-handling thread)
+04-01 10:53:13.246  1444 19389 D         : HostConnection::get() New Host Connection established 0xefc23a40, tid 19389
+04-01 10:53:13.246  1444 19389 D gralloc_ranchu: gralloc_unregister_buffer: exiting HostConnection (is buffer-handling thread)
+04-01 10:53:13.246  1444 19389 D         : HostConnection::get() New Host Connection established 0xefc23a40, tid 19389
+04-01 10:53:13.247  1444 19389 D gralloc_ranchu: gralloc_unregister_buffer: exiting HostConnection (is buffer-handling thread)
+04-01 10:53:13.248  1444 19389 D         : HostConnection::get() New Host Connection established 0xefc23a40, tid 19389
+04-01 10:53:13.262  8250  8275 D EGL_emulation: eglMakeCurrent: 0xe5875680: ver 2 0 (tinfo 0xde86f420)
+04-01 10:53:13.334  1444 19389 D gralloc_ranchu: gralloc_unregister_buffer: exiting HostConnection (is buffer-handling thread)
+04-01 10:53:13.335  1444 19389 D         : HostConnection::get() New Host Connection established 0xefc23a40, tid 19389
+04-01 10:53:13.335  1444 19389 D gralloc_ranchu: gralloc_unregister_buffer: exiting HostConnection (is buffer-handling thread)
+04-01 10:53:13.342  1444 19389 D         : HostConnection::get() New Host Connection established 0xefc23a40, tid 19389
+04-01 10:53:13.347  1810  1904 D gralloc_ranchu: gralloc_unregister_buffer: exiting HostConnection (is buffer-handling thread)
+04-01 10:53:13.348  1810  1904 D         : HostConnection::get() New Host Connection established 0xcfca4380, tid 1904
+04-01 10:53:13.352  1810  1904 D gralloc_ranchu: gralloc_unregister_buffer: exiting HostConnection (is buffer-handling thread)
+04-01 10:53:13.367  2006  2043 D         : HostConnection::get() New Host Connection established 0xe0158600, tid 2043
+04-01 10:53:13.368  2006  2043 D gralloc_ranchu: gralloc_unregister_buffer: exiting HostConnection (is buffer-handling thread)
+04-01 10:53:13.369  2006  2043 D         : HostConnection::get() New Host Connection established 0xe0158600, tid 2043
+04-01 10:53:13.370  2006  2043 D gralloc_ranchu: gralloc_unregister_buffer: exiting HostConnection (is buffer-handling thread)
+04-01 10:53:13.371  2006  2046 D         : HostConnection::get() New Host Connection established 0xce407300, tid 2046
+04-01 10:53:13.372  2006  2046 D gralloc_ranchu: gralloc_unregister_buffer: exiting HostConnection (is buffer-handling thread)
+04-01 10:53:13.373  2006  2046 D         : HostConnection::get() New Host Connection established 0xce407300, tid 2046
+04-01 10:53:13.375  2006  2046 D gralloc_ranchu: gralloc_unregister_buffer: exiting HostConnection (is buffer-handling thread)
+04-01 10:53:13.381 19863  3501 I PBSessionCacheImpl: Deleted sessionId[154242315771] from persistence.
+04-01 10:53:13.381  1810  2258 I WifiService: getConnectionInfo uid=10032
+04-01 10:53:13.383  1810  2258 I WifiService: getWifiEnabledState uid=10032
+04-01 10:53:13.384 19863  7345 W Settings: Setting mobile_data has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+04-01 10:53:13.386 19863 19863 W SearchGraphLegacyWorker: SearchGraph prewarming cache miss.
+04-01 10:53:13.387 19863 19863 W SearchGraphLegacyWorker: SearchGraph prewarming cache miss.
+04-01 10:53:13.390 19863 19863 I OptInState: There is a new client and it does not support opt-in. Dropping request.
+04-01 10:53:13.398  1810  2258 I WifiService: getConnectionInfo uid=10032
+04-01 10:53:13.400  1810  9181 I WifiService: getConnectionInfo uid=10032
+04-01 10:53:13.410  1443  1489 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 17973248
+04-01 10:53:13.411  1810  1826 I WifiService: getWifiEnabledState uid=10032
+04-01 10:53:13.412 19863  3446 W Settings: Setting mobile_data has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+04-01 10:53:13.416  1453  1931 D         : HostConnection::get() New Host Connection established 0xec4a14c0, tid 1931
+04-01 10:53:13.417  1810  5346 I zygote  : android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasWideColorDisplay retrieved: 0
+04-01 10:53:13.417  1810  5346 I OpenGLRenderer: Initialized EGL, version 1.4
+04-01 10:53:13.417  1810  5346 D OpenGLRenderer: Swap behavior 1
+04-01 10:53:13.418  1443  1489 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 17973248
+04-01 10:53:13.418  1810  5346 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+04-01 10:53:13.418  1810  5346 D OpenGLRenderer: Swap behavior 0
+04-01 10:53:13.428  1810  5346 D EGL_emulation: eglCreateContext: 0xe84e3b40: maj 2 min 0 rcv 2
+04-01 10:53:13.429  1443  1489 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 17973248
+04-01 10:53:13.433  1810  5346 D EGL_emulation: eglMakeCurrent: 0xe84e3b40: ver 2 0 (tinfo 0xce9b95b0)
+04-01 10:53:13.457  1810  2258 I WifiService: getConnectionInfo uid=10032
+04-01 10:53:13.459  1810  2258 I WifiService: getWifiEnabledState uid=10032
+04-01 10:53:13.459 19863  3501 W Settings: Setting mobile_data has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+04-01 10:53:13.464  1810  2258 I WifiService: getConnectionInfo uid=10032
+04-01 10:53:13.479 19863 20025 D EGL_emulation: eglMakeCurrent: 0xcc30e380: ver 2 0 (tinfo 0xcc37f130)
+04-01 10:53:13.566 19863  3492 W ThreadPoolDumper: Queue length for executor TaskGraph-Producer is now 16. Perhaps some tasks are too long, or the pool is too small.
+04-01 10:53:13.566  1810  1820 I zygote  : NativeAlloc concurrent copying GC freed 8373(752KB) AllocSpace objects, 2(40KB) LOS objects, 38% free, 9MB/15MB, paused 1.593ms total 162.209ms
+04-01 10:53:13.572  1810  1818 D         : HostConnection::get() New Host Connection established 0xcfca4a00, tid 1818
+04-01 10:53:13.589  1810  1818 D gralloc_ranchu: gralloc_unregister_buffer: exiting HostConnection (is buffer-handling thread)
+04-01 10:53:13.597  8250  8275 D EGL_emulation: eglMakeCurrent: 0xe5875680: ver 2 0 (tinfo 0xde86f420)
+04-01 10:53:13.601  1453  1476 D         : HostConnection::get() New Host Connection established 0xec4a1640, tid 1476
+04-01 10:53:13.602  1453  1476 D gralloc_ranchu: gralloc_unregister_buffer: exiting HostConnection (is buffer-handling thread)
+04-01 10:53:13.604  1453  1476 D         : HostConnection::get() New Host Connection established 0xec4a1640, tid 1476
+04-01 10:53:13.605  1810  1818 D         : HostConnection::get() New Host Connection established 0xcfca4a00, tid 1818
+04-01 10:53:13.605  1453  1476 D gralloc_ranchu: gralloc_unregister_buffer: exiting HostConnection (is buffer-handling thread)
+04-01 10:53:13.606  1453  1476 D         : HostConnection::get() New Host Connection established 0xec4a1640, tid 1476
+04-01 10:53:13.606  1453  1476 D gralloc_ranchu: gralloc_unregister_buffer: exiting HostConnection (is buffer-handling thread)
+04-01 10:53:13.607  1453  1476 D         : HostConnection::get() New Host Connection established 0xec4a1640, tid 1476
+04-01 10:53:13.607  1453  1476 D gralloc_ranchu: gralloc_unregister_buffer: exiting HostConnection (is buffer-handling thread)
+04-01 10:53:13.611  1810  1818 D gralloc_ranchu: gralloc_unregister_buffer: exiting HostConnection (is buffer-handling thread)
+04-01 10:53:13.627 19999 20095 I PeopleChimeraService: onService. callbacks = aabq@c42864f, request = com.google.android.gms.common.internal.GetServiceRequest@d5971dc
+04-01 10:53:13.666  1810  1836 I WifiService: requestActivityInfo uid=1000
+04-01 10:53:13.674  1810  1836 I WifiService: reportActivityInfo uid=1000
+04-01 10:53:13.674  1810  1836 I WifiService: getSupportedFeatures uid=1000
+04-01 10:53:13.735  1810  1820 I zygote  : NativeAlloc concurrent copying GC freed 832(184KB) AllocSpace objects, 0(0B) LOS objects, 38% free, 9MB/15MB, paused 988us total 117.030ms
+04-01 10:53:13.766 19171 19182 I zygote  : Background concurrent copying GC freed 21238(1362KB) AllocSpace objects, 0(0B) LOS objects, 46% free, 6MB/12MB, paused 679us total 178.606ms
+04-01 10:53:13.776 19863 19863 I MicroDetectionWorker: #updateMicroDetector [detectionMode: [mDetectionMode: [1]]]
+04-01 10:53:13.777 19863 19863 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+04-01 10:53:13.777 19863 19863 I AudioController: Using mInputStreamFactoryBuilder
+04-01 10:53:13.785 19863  6904 I MicroRecognitionRunner: Starting detection.
+04-01 10:53:13.786 19863  7345 I MicrophoneInputStream: mic_starting com.google.android.apps.gsa.staticplugins.aa.c@35630ad
+04-01 10:53:13.786  1671 11490 W ServiceManager: Permission failure: android.permission.RECORD_AUDIO from uid=10032 pid=19863
+04-01 10:53:13.786  1671 11490 E         : Request requires android.permission.RECORD_AUDIO
+04-01 10:53:13.787  1671 11490 E         : android.permission.CAPTURE_AUDIO_HOTWORD
+04-01 10:53:13.787 19863  7345 E AudioRecord: Could not get audio input for session 6505, record source 1999, sample rate 16000, format 0x1, channel mask 0x10, flags 0
+04-01 10:53:13.804 19863  7345 E AudioRecord-JNI: Error creating AudioRecord instance: initialization check failed with status -22.
+04-01 10:53:13.804 19863  7345 E android.media.AudioRecord: Error code -20 when initializing native AudioRecord object.
+04-01 10:53:13.805 19863  7345 I MicrophoneInputStream: mic_started com.google.android.apps.gsa.staticplugins.aa.c@35630ad
+04-01 10:53:13.816 19863  7345 I MicrophoneInputStream: mic_close com.google.android.apps.gsa.staticplugins.aa.c@35630ad
+04-01 10:53:13.817 19863 19863 I MicroDetectionWorker: onReady
+04-01 10:53:13.824 19863  6904 I MicroRecognitionRunner: Detection finished
+04-01 10:53:13.824 19863  6904 W ErrorReporter: reportError [type: 211, code: 524300]: Error reading from input stream
+04-01 10:53:13.828 19863 19863 I MicroDetectionWorker: onReady
+04-01 10:53:13.846 19863  6904 W ErrorProcessor: onFatalError, processing error from engine(4)
+04-01 10:53:13.846 19863  6904 W ErrorProcessor: com.google.android.apps.gsa.shared.speech.b.g: Error reading from input stream
+04-01 10:53:13.846 19863  6904 W ErrorProcessor: 	at com.google.android.apps.gsa.staticplugins.recognizer.j.a.a(SourceFile:28)
+04-01 10:53:13.846 19863  6904 W ErrorProcessor: 	at com.google.android.apps.gsa.staticplugins.recognizer.j.b.run(SourceFile:15)
+04-01 10:53:13.846 19863  6904 W ErrorProcessor: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:457)
+04-01 10:53:13.846 19863  6904 W ErrorProcessor: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+04-01 10:53:13.846 19863  6904 W ErrorProcessor: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:457)
+04-01 10:53:13.846 19863  6904 W ErrorProcessor: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+04-01 10:53:13.846 19863  6904 W ErrorProcessor: 	at com.google.android.apps.gsa.shared.util.concurrent.a.ag.run(Unknown Source:4)
+04-01 10:53:13.846 19863  6904 W ErrorProcessor: 	at com.google.android.apps.gsa.shared.util.concurrent.a.bo.run(SourceFile:4)
+04-01 10:53:13.846 19863  6904 W ErrorProcessor: 	at com.google.android.apps.gsa.shared.util.concurrent.a.bo.run(SourceFile:4)
+04-01 10:53:13.846 19863  6904 W ErrorProcessor: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1162)
+04-01 10:53:13.846 19863  6904 W ErrorProcessor: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:636)
+04-01 10:53:13.846 19863  6904 W ErrorProcessor: 	at java.lang.Thread.run(Thread.java:764)
+04-01 10:53:13.846 19863  6904 W ErrorProcessor: 	at com.google.android.apps.gsa.shared.util.concurrent.a.ak.run(SourceFile:6)
+04-01 10:53:13.846 19863  6904 W ErrorProcessor: Caused by: com.google.android.apps.gsa.shared.exception.GsaIOException: Error code: 393238 | Buffer overflow, no available space.
+04-01 10:53:13.846 19863  6904 W ErrorProcessor: 	at com.google.android.apps.gsa.speech.audio.Tee.f(SourceFile:103)
+04-01 10:53:13.846 19863  6904 W ErrorProcessor: 	at com.google.android.apps.gsa.speech.audio.au.read(SourceFile:2)
+04-01 10:53:13.846 19863  6904 W ErrorProcessor: 	at java.io.InputStream.read(InputStream.java:101)
+04-01 10:53:13.846 19863  6904 W ErrorProcessor: 	at com.google.android.apps.gsa.speech.audio.ao.run(SourceFile:18)
+04-01 10:53:13.846 19863  6904 W ErrorProcessor: 	at com.google.android.apps.gsa.speech.audio.an.run(SourceFile:2)
+04-01 10:53:13.846 19863  6904 W ErrorProcessor: 	... 11 more
+04-01 10:53:13.847 19863 20079 I MicroRecognitionRunner: Stopping hotword detection.
+04-01 10:53:13.847 19863  6904 I AudioController: internalShutdown
+04-01 10:53:13.865 19863 19863 I MicroDetector: Keeping mic open: false
+04-01 10:53:13.865 19863 19863 I MicroDetectionWorker: #onError(false)
+04-01 10:53:13.865 19863  3564 I DeviceStateChecker: DeviceStateChecker cancelled
+04-01 10:53:14.004  8209  8209 D LifecycleMonitor: Lifecycle status change: com.shvet.hw10.MainActivity@54708f7 in: STOPPED
+04-01 10:53:14.005  8209  8209 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.shvet.hw10.MainActivity@54708f7
+04-01 10:53:14.008  8209  8209 D LifecycleMonitor: Lifecycle status change: com.shvet.hw10.MainActivity@54708f7 in: DESTROYED
+04-01 10:53:14.008  8209  8209 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+04-01 10:53:14.010  8209  8237 I TestRunner: finished: displaysNumberOnClick(com.shvet.hw10.ExampleInstrumentedTest)

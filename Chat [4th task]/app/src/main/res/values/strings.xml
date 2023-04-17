@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="test_message">Test message</string>
+    <string name="test_user">User</string>
+    <string name="test_time">22 Mar 2023 10:21</string>
+    <string name="message_hint">Type your message here</string>
+    <string name="send_message">Send</string>
+    <string name="attach_file">File</string>
+    <string name="attached_image">Attached Image</string>
+</resources>

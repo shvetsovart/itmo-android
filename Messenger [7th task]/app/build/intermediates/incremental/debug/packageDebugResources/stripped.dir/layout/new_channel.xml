@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Space
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="0.25" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start"
+        android:layout_marginStart="10dp"
+        android:padding="5dp"
+        android:text="@string/channel_name_requirements"
+        android:textColor="@color/black"
+        android:textSize="17sp"
+        android:textStyle="bold|italic" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start"
+        android:layout_marginStart="10dp"
+        android:padding="5dp"
+        android:text="@string/chat_item"
+        android:textColor="@color/cardview_dark_background"
+        android:textSize="23sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start"
+        android:layout_marginStart="10dp"
+        android:padding="5dp"
+        android:layout_marginTop="10dp"
+        android:text="@string/channel_name_requirements2"
+        android:textColor="@color/black"
+        android:textSize="17sp"
+        android:textStyle="bold|italic" />
+
+    <EditText
+        android:id="@+id/channel_name_input"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:autofillHints="channel"
+        android:layout_marginTop="100dp"
+        android:hint="@string/new_channel_name"
+        android:inputType="text"
+        android:padding="20dp"
+        android:textSize="25sp" />
+
+    <EditText
+        android:id="@+id/first_message_input"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:autofillHints="hello!"
+        android:hint="@string/first_message_hint"
+        android:inputType="text"
+        android:padding="20dp"
+        android:textSize="25sp" />
+
+    <Space
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="0.25" />
+
+    <Button
+        android:id="@+id/new_channel_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/create_new_channel"
+        android:textColor="@color/white" />
+
+    <Space
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="0.5" />
+
+</LinearLayout>

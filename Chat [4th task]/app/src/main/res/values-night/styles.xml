@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MessageStyle" parent="TextAppearance.AppCompat">
+        <item name="android:background">@drawable/night_round_message</item>
+    </style>
+
+    <style name="MessageTextStyle" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="UserMessageStyle" parent="TextAppearance.AppCompat">
+        <item name="android:background">@drawable/night_round_user_message</item>
+    </style>
+
+    <style name="AttachButton" parent="TextAppearance.AppCompat">
+        <item name="android:background">@drawable/night_round_button</item>
+        <item name="android:src">@drawable/night_attach_button</item>
+    </style>
+
+    <style name="SendButton" parent="TextAppearance.AppCompat">
+        <item name="android:background">@drawable/night_round_button</item>
+        <item name="android:src">@drawable/night_send_button</item>
+    </style>
+
+    <style name="NickStyle" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="UserNickStyle" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/day_message_user</item>
+    </style>
+
+</resources>

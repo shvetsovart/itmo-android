@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.shvet.messenger.app-mergeDebugResources-42:/layout/image_message_layout.xml",
+        "source": "com.shvet.messenger.app-main-45:/layout/image_message_layout.xml"
+    },
+    {
+        "merged": "com.shvet.messenger.app-mergeDebugResources-42:/layout/new_channel.xml",
+        "source": "com.shvet.messenger.app-main-45:/layout/new_channel.xml"
+    },
+    {
+        "merged": "com.shvet.messenger.app-mergeDebugResources-42:/layout/activity_main.xml",
+        "source": "com.shvet.messenger.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.shvet.messenger.app-mergeDebugResources-42:/layout/chat.xml",
+        "source": "com.shvet.messenger.app-main-45:/layout/chat.xml"
+    },
+    {
+        "merged": "com.shvet.messenger.app-mergeDebugResources-42:/layout/image_full_res_layout.xml",
+        "source": "com.shvet.messenger.app-main-45:/layout/image_full_res_layout.xml"
+    },
+    {
+        "merged": "com.shvet.messenger.app-mergeDebugResources-42:/layout/empty_chat.xml",
+        "source": "com.shvet.messenger.app-main-45:/layout/empty_chat.xml"
+    },
+    {
+        "merged": "com.shvet.messenger.app-mergeDebugResources-42:/layout/activity_chat.xml",
+        "source": "com.shvet.messenger.app-main-45:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "com.shvet.messenger.app-mergeDebugResources-42:/layout/chat_item.xml",
+        "source": "com.shvet.messenger.app-main-45:/layout/chat_item.xml"
+    },
+    {
+        "merged": "com.shvet.messenger.app-mergeDebugResources-42:/layout/chat_list.xml",
+        "source": "com.shvet.messenger.app-main-45:/layout/chat_list.xml"
+    },
+    {
+        "merged": "com.shvet.messenger.app-mergeDebugResources-42:/layout/message_layout.xml",
+        "source": "com.shvet.messenger.app-main-45:/layout/message_layout.xml"
+    }
+]

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="day_btn">#59C6FF</color>
+    <color name="day_message_user">#C6FFB9</color>
+    <color name="day_msg">#B3E5FF</color>
+    <color name="from_user">#1B880F</color>
+    <color name="grey">#8F8F8F</color>
+    <color name="night_message_user">#368D2B</color>
+    <color name="night_msg">#507CCF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Messenger</string>
+    <string name="attach_file">file</string>
+    <string name="attached_image">attached_image</string>
+    <string name="message_hint">Type your message here</string>
+    <string name="send_message">send</string>
+    <string name="test_message">test message</string>
+    <string name="test_time">22 Mar 2023 10:21</string>
+    <string name="test_user">user</string>
+    <style name="AttachButton" parent="TextAppearance.AppCompat">
+        <item name="android:background">@drawable/day_round_button</item>
+        <item name="android:src">@drawable/day_attach_button</item>
+    </style>
+    <style name="MessageStyle" parent="TextAppearance.AppCompat">
+        <item name="android:background">@drawable/day_round_message</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="NickStyle" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="SendButton" parent="TextAppearance.AppCompat">
+        <item name="android:background">@drawable/day_round_button</item>
+        <item name="android:src">@drawable/day_send_button</item>
+    </style>
+    <style name="Theme.MyApplication" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+    <style name="UserMessageStyle" parent="TextAppearance.AppCompat">
+        <item name="android:background">@drawable/day_round_user_message</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="UserNickStyle" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/from_user</item>
+    </style>
+</resources>

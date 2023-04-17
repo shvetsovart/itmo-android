@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-mergeDebugResources-36:\\layout-land\\activity_main.xml",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.5\\com.shvet.network.app-main-39:\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "com.shvet.network.app-mergeDebugResources-36:/layout-land/activity_main.xml",
+        "source": "com.shvet.network.app-main-39:/layout-land/activity_main.xml"
+    }
+]

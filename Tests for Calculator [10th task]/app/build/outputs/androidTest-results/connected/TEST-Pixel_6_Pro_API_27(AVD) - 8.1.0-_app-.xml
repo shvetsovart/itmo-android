@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.shvet.hw10.ExampleInstrumentedTest" tests="9" failures="0" errors="0" skipped="0" time="25.768" timestamp="2023-04-01T10:53:35" hostname="localhost">
+  <properties>
+    <property name="device" value="Pixel_6_Pro_API_27(AVD) - 8.1.0" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="calculatesOnClick" classname="com.shvet.hw10.ExampleInstrumentedTest" time="3.323" />
+  <testcase name="displaysNumberOnClick" classname="com.shvet.hw10.ExampleInstrumentedTest" time="1.671" />
+  <testcase name="resultSurvivesRotation" classname="com.shvet.hw10.ExampleInstrumentedTest" time="3.375" />
+  <testcase name="keepsSingleOperationSymbol" classname="com.shvet.hw10.ExampleInstrumentedTest" time="2.486" />
+  <testcase name="ignoresOperationWithoutArguments" classname="com.shvet.hw10.ExampleInstrumentedTest" time="2.664" />
+  <testcase name="handlesUnaryMinus" classname="com.shvet.hw10.ExampleInstrumentedTest" time="4.094" />
+  <testcase name="clearsResultField" classname="com.shvet.hw10.ExampleInstrumentedTest" time="2.565" />
+  <testcase name="allowsTrailingZeroes" classname="com.shvet.hw10.ExampleInstrumentedTest" time="2.612" />
+  <testcase name="keepsSingleLeadingZero" classname="com.shvet.hw10.ExampleInstrumentedTest" time="2.003" />
+</testsuite>

@@ -1,0 +1,3 @@
+com.shvet.hw10.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
